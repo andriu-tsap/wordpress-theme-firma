@@ -11,7 +11,7 @@ A Polish service-business site concept for WordPress FSE commissions. It include
 ## Files
 
 - `serwis-nurt/`: WordPress block theme, global styles, template parts and patterns.
-- `releases/serwis-nurt.zip`: installable theme package.
+- `releases/serwis-nurt.zip`: installable theme package for WordPress.
 - `index.html`, `o-nas.html`, `uslugi.html`, `kontakt.html`: static demo with matching styling.
 
 ## Installation and editing
