@@ -8,10 +8,13 @@ Motyw blokowy dla fikcyjnej firmy zajmującej się przeglądami i konserwacją i
 
 A Polish service-business site concept for WordPress FSE commissions. It includes a homepage, About, Services, Contact, and two reusable block patterns.
 
+![Static homepage preview](exports/serwis-nurt.jpg)
+
 ## Files
 
 - `serwis-nurt/`: WordPress block theme, global styles, template parts and patterns.
-- `releases/serwis-nurt.zip`: installable theme package for WordPress.
+- `exports/serwis-nurt.jpg`: desktop screenshot of the live demo.
+- `releases/serwis-nurt.zip`: installable theme package.
 - `index.html`, `o-nas.html`, `uslugi.html`, `kontakt.html`: static demo with matching styling.
 
 ## Installation and editing
