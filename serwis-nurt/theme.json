@@ -1,0 +1,79 @@
+{
+  "version": 3,
+  "settings": {
+    "appearanceTools": true,
+    "layout": {
+      "contentSize": "760px",
+      "wideSize": "1120px"
+    },
+    "color": {
+      "palette": [
+        {
+          "slug": "ink",
+          "name": "Atrament",
+          "color": "#142b2b"
+        },
+        {
+          "slug": "nurt",
+          "name": "Nurt",
+          "color": "#143c3b"
+        },
+        {
+          "slug": "mist",
+          "name": "Mgła",
+          "color": "#f2f6f4"
+        },
+        {
+          "slug": "lime",
+          "name": "Limonka",
+          "color": "#cef39b"
+        }
+      ]
+    }
+  },
+  "styles": {
+    "color": {
+      "background": "#f2f6f4",
+      "text": "#142b2b"
+    },
+    "typography": {
+      "fontFamily": "system-ui, sans-serif",
+      "lineHeight": "1.55"
+    }
+  },
+  "templateParts": [
+    {
+      "name": "header",
+      "title": "Nagłówek",
+      "area": "header"
+    },
+    {
+      "name": "footer",
+      "title": "Stopka",
+      "area": "footer"
+    }
+  ],
+  "customTemplates": [
+    {
+      "name": "o-nas",
+      "title": "O nas",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "uslugi",
+      "title": "Usługi",
+      "postTypes": [
+        "page"
+      ]
+    },
+    {
+      "name": "kontakt",
+      "title": "Kontakt",
+      "postTypes": [
+        "page"
+      ]
+    }
+  ]
+}
